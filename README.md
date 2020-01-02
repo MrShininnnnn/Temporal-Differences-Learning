@@ -3,6 +3,9 @@
 ## Introduction
 The goal of this project is to reproduce the Figure 3, 4, 5 in Richard Sutton’s 1988 paper [***Learning to Predict by the Methods of Temporal Differences***](http://incompleteideas.net/papers/sutton-88-with-erratum.pdf).
 
+### Original Figures
+![Original Figures](./img/exp_2.png "Original Figures")
+
 ## Directory
 + **./img** - to save the output
 + **main.py** - to reproduce the experiments and generate figures directly
