@@ -4,16 +4,16 @@
 The goal of this project is to reproduce the Figure 3, 4, 5 in Richard Sutton’s 1988 paper [***Learning to Predict by the Methods of Temporal Differences***](https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/reference/Learning_to_Predict_by_the_Methods_of_Temporal_Differences.pdf).
 
 ### Original Figures
-![Original Figures](./img/exp_2.png "Original Figures")
+<img src="./img/exp_2.png" alt="Original Figures" height="256" />
 
 ### Reproduced Figure 3
-![Reproduced Figure 3](./img/figure_3.png "Reproduced Figure 3")
+<img src="./img/figure_3.png" alt="Reproduced Figure 3"  height="256" />
 
 ### Reproduced Figure 4
-![Reproduced Figure 4](./img/figure_4.png "Reproduced Figure 4")
+<img src="./img/figure_4.png" alt="Reproduced Figure 4"  height="256" />
 
 ### Reproduced Figure 5
-![Reproduced Figure 5](./img/figure_5.png "Reproduced Figure 5")
+<img src="./img/figure_5.png" alt="Reproduced Figure 5"  height="256" />
 
 ## Directory
 + **./img** - to save the output
