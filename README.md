@@ -1,7 +1,7 @@
 # Temporal Differences Learning
 
 ## Introduction
-The goal of this project is to reproduce the Figure 3, 4, 5 in Richard Sutton’s 1988 paper [***Learning to Predict by the Methods of Temporal Differences***](./reference).
+The goal of this project is to reproduce the Figure 3, 4, 5 in Richard Sutton’s 1988 paper [***Learning to Predict by the Methods of Temporal Differences***](./reference/Learning_to_Predict_by_the_Methods_of_Temporal_Differences.pdf).
 
 ### Original Figures
 ![Original Figures](./img/exp_2.png "Original Figures")
